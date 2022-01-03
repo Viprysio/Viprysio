@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Viprysio
+- 👀 I’m interested in cryptocurrency coding, security and mobile app coding / President of an esport association, I am a video game fan.
+- 🌱 I’m currently learning coding on the ethereum blockchain and security certificates.
+- 💞️ I’m looking to collaborate on coding for mobile application and coding on solidity (eth blockchain).
+- 📫 How to reach me : viprysio72@gmail.com
